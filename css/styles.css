@@ -1,0 +1,159 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* title section */
+#title{
+    background-color: #ff4c68;
+    color: white;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    padding: 0% 8%;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+}
+.container-fluid{
+    padding: 1% 5%;
+}
+
+/* tittle Image */
+
+.image{
+    width: 50%;
+    transform: rotate(30deg);
+    margin-left: 15%;
+    margin-top: 6%;
+}
+
+/* navigation bar */
+
+.navbar{
+    padding: 0 0 3.8rem;
+}
+
+.navbar-brand{
+    font-weight: 500;
+    font-size: 2rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.nav-link{
+    font-weight: 1.2rem;
+}
+
+/* download buttons */
+
+.download-buttons{
+    margin: 5% -5% 0 8%;
+}
+
+.download-buttons:hover{
+    color: black;
+    background-color: white;
+}
+
+/* features */
+
+#features{
+    text-align: center;
+    font-size: 1.1rem;
+    padding: 8%;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+.features-img{
+    font-size: 300%;
+    color: #ef8172;
+    padding-bottom: 8%;
+}
+.features-img:hover{
+    color: #ff4c68;
+}
+
+.ft-lists{
+    padding: 1.5rem;
+}
+
+.ft-about{
+    color:#8f8f8f;
+}
+
+/* Testimonials Section */
+
+#testimonials{
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+
+.testimonial-img{
+    width: 15%;
+    border-radius: 100%;
+    margin: 4%;
+}
+
+/* Press */
+
+#press{
+    text-align: center;
+    background-color: #ef8172;
+    padding-bottom: 3%;
+}
+
+.press-logo{
+    width: 15%;
+    margin: 10px 20px 40px 20px;
+}
+
+.carousel-item{
+    padding: 10%;
+}
+
+/* pricing section */
+
+#pricing{
+    padding: 7%;
+    text-align: center;
+}
+
+.pricing-column{
+    padding: 3% 2%;
+} 
+
+/* cta */
+
+#cta{
+    text-align: center;
+    background-color: #ff4c68;
+    color: white;
+    padding: 10%;
+}
+
+.cta-heading{
+    font-size: 2.7rem;
+    margin-bottom: 4%;
+}
+.cta-btn{
+    margin: 1% 1% 2% 1%;
+}
+
+
+/* footer */
+
+#footer{
+    padding: 5%;
+    text-align: center;
+}
+
+.footer-icon{
+    padding: 1% 1%;
+}
